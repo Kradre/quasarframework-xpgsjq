@@ -3,3 +3,12 @@
 .image-temp {
   width: 50px;
 }
+
+.bg-tmp {
+  background: url('https://i.imgur.com/FX8BrJR.jpg');
+  height: 1200px;
+  @media (max-height: 900px) {
+    height: 300px;
+  }
+  background-size: cover;
+}
