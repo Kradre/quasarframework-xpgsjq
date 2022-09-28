@@ -25,15 +25,16 @@
         <img src="https://i.imgur.com/L5hnxTo.png" class="image-temp" />
       </div>
       <div class="col-6 text-grey">
-        ONEBID ASSET LLC, a company incorporated at Saint Vincent and the
-        Grenadines with company number 2432 LLC 2022 with a registered address
-        at unit Suite 305, Griffith Corporate Centre, Beachmont, Kingstown,
-        Saint Vincent and the Grenadines. The company is regulated by the laws
-        of Saint Vincent and the Grenadines and is fully capable and eligible to
-        provide services that are offered on the Website.
-        <br /><br />
-        The information on this website does not constitute investment advice or
-        a recommendation or a solicitation to engage in any investment activity.
+        ONEBID ASSET LLC, a company incorporated at Saint Vincent and the Grenadines with company number 2432 LLC 2022 with a registered address at unit Suite 305, Griffith Corporate Centre, Beachmont, Kingstown, Saint Vincent and the Grenadines. The company is regulated by the laws of Saint Vincent and the Grenadines and is fully capable and eligible to provide online Forex and CFDs trading services.<br><br>
+
+The information on this website does not constitute investment advice or a recommendation or a solicitation to engage in any investment activity.<br><br>
+
+
+Contacts:<br>
+
+e-mail: <a href="mailto:info@onebidasset.com">info@onebidasset.com</a><br>
+
+tel.: <a href="tel:+66811417611">+66811417611</a><br>
       </div>
     </div>
   </q-layout>
